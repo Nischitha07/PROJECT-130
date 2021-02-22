@@ -1,0 +1,67 @@
+body{
+    background-size:cover;
+    
+}
+.note{
+    color:rgb(172, 5, 5);
+    font-size: 15px;
+}
+.h1_heading{
+    color:rgb(255, 255, 255);
+    font-size:25px;
+    font-weight:bold;
+    width:100%;
+    background: rgb(13, 202, 250);
+   
+}
+.div_speed
+  {
+  	float: left;
+  }
+.div_speed_img
+  {
+  	width: 200px; 
+  	border-radius: 100px;
+  }
+  #speed
+  {
+  	font-size: 23px;
+  	margin: 15px;
+  }
+  .div_volume
+  {
+  	float: right;	
+  }
+  .div_volume_img
+  {
+  	width: 200px; 
+  	border-radius: 100px;
+  }
+  #volume
+  {
+  	font-size: 23px;
+  	margin: 15px;
+  }
+  canvas
+  {
+    box-shadow: 5 18 5 grey;
+    border-radius:15px;
+margin-top:-300px;
+  }
+  #btn_play1{
+    float:left;
+    margin-left:-180px;
+    margin-top:170px;
+  }
+  #btn_play2{
+    float:right;
+    margin-right:-180px;
+    margin-top:170px;
+  
+  }
+ #btn_stop1
+
+ {
+   font-size: 25px;;
+   width:300px;
+ }
